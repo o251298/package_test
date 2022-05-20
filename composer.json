@@ -13,6 +13,8 @@
     "require_dev": {
        
     },
+    "minimum-stability": "dev",
+    "prefer-stable" : true,
     "autoload": {
         "psr-4": {
             "ctrlv\\HelloWorld\\": "src/"
